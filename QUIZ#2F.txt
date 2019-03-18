@@ -1,0 +1,11 @@
+QUIZ#2: FINAL TERM
+CPE 421- TROUBLESHOOTING OF COMPUTER SYSTEMS
+
+
+PROBLEM:
+	Raspberry Pi B won’t turn ON (but has led lights red and green on) but turned ON when the other section tried to troubleshoot it.
+
+ANSWER:
+ 	The possible reason why the Raspberry Pi B didn’t turn on when our classmate turn it ON is that the adaptor used as the supply for power on the system is not compatible with the device. The adaptor might not be supplying the required voltage and current that the device need. Because the red LED light is ON, it means that it has a problem on the power. Therefore, when troubleshooting any system, may it be a microcomputer or the normal computer. We should identify the possible problems before concluding that the device itself is no longer working. The problem might lie on the other parts that can be easily resolved. 
+
+ 

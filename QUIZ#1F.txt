@@ -1,0 +1,23 @@
+QUIZ#1: FINAL TERM
+CPE 421- TROUBLESHOOTING OF COMPUTER SYSTEMS
+
+
+Why the P5GC ASUS or 1333 Intel did not boot to BIOS?
+
+
+Possible Causes:
+
+---> Faulty RAM (something wrong related to RAM)
+	-Try transferring to another slot or replace it.
+
+---> Faulting PCI Cards
+
+---> Misplaced front panel connectors
+
+---> Missing power supply cables
+	-Check the 24-pin ATX cable and the 4-pin or 8-pin CPU connector.
+
+---> The CPU is dead.
+
+---> The PSU not working properly.
+ 
